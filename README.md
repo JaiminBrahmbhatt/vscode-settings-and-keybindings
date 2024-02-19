@@ -8,7 +8,7 @@ For this to work make sure you install -
 ### Vim keybindings and settings
 [Refer to complete settings.json](https://github.com/JaiminBrahmbhatt/vscode-settings-and-keybindings/blob/main/settings.json)
 
-```
+```json
     // vim settings
     "extensions.experimental.affinity": {
         "vscodevim.vim": 1
