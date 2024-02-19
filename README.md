@@ -1,6 +1,9 @@
 # vscode-settings-and-keybindings
 My Vim focused Vscode settings.json and keybindings.json
 
+For this to work make sure you install -
+1. [VSCode Vim Plugin](https://marketplace.visualstudio.com/items?itemName=vscodevim.vim)
+
 
 ### Vim keybindings and settings
 [Refer to complete settings.json](https://github.com/JaiminBrahmbhatt/vscode-settings-and-keybindings/blob/main/settings.json)
