@@ -2,7 +2,7 @@
 My Vim focused Vscode settings.json and keybindings.json
 
 
-## Vim keybindings and settings
+### Vim keybindings and settings
 [Refer to complete settings.json](https://github.com/JaiminBrahmbhatt/vscode-settings-and-keybindings/blob/main/settings.json)
 
 ```
@@ -252,7 +252,7 @@ My Vim focused Vscode settings.json and keybindings.json
 
 ```
 
-## Visuals and feel of VSCode
+### Visuals and feel of VSCode
 ```
     "debug.toolBarLocation": "docked",
     "editor.accessibilitySupport": "off",
@@ -276,7 +276,7 @@ My Vim focused Vscode settings.json and keybindings.json
     "workbench.tree.renderIndentGuides": "always",
 ```
 
-## Misc
+### Misc
 ```
     // editor
     "editor.colorDecorators": true,
@@ -320,8 +320,7 @@ My Vim focused Vscode settings.json and keybindings.json
     "terminal.integrated.env.osx": {},
 ```
 
-## Color Customizations of VScode
-
+### Color Customizations of VScode
 ```
     "workbench.colorCustomizations": {
         "tab.activeBorderTop": "#12ff00",
