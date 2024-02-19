@@ -2,8 +2,11 @@
 Vscode Vim focused Vscode settings.json and keybindings.json
 
 For this to work make sure you install -
-1. [VSCode Vim Plugin](https://marketplace.visualstudio.com/items?itemName=vscodevim.vim)
+- [VSCode Vim Plugin](https://marketplace.visualstudio.com/items?itemName=vscodevim.vim)
 
+Quick bind to open up settings
+`command + ,` on Mac
+`windows + ,` on Windows
 
 ### Vim keybindings and settings
 [Refer to complete settings.json](https://github.com/JaiminBrahmbhatt/vscode-settings-and-keybindings/blob/main/settings.json)
