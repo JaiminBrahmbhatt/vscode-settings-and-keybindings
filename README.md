@@ -21,7 +21,7 @@ Quick bind to open up settings -
     "vim.highlightedyank.enable": true,
     "vim.history": 1000,
     "vim.hlsearch": false,
-    "vim.leader": "<space>", // allows you to easyily create keybindings in vim you will see some example below
+    "vim.leader": "<space>", // allows you to easily create keybindings in vim you will see some example below
     "vim.smartRelativeLine": true, // enable rlnu when in NORMAL mode and VISUAL mode disables in INSERT mode
     "vim.surround": true, // enable vim surround plugin https://github.com/VSCodeVim/Vim?tab=readme-ov-file#vim-surround
 
