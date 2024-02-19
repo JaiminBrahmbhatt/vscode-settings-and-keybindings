@@ -256,7 +256,7 @@ For this to work make sure you install -
 ```
 
 ### Visuals and feel of VSCode
-```
+```json
     "debug.toolBarLocation": "docked",
     "editor.accessibilitySupport": "off",
     "editor.bracketPairColorization.enabled": true,
@@ -280,7 +280,7 @@ For this to work make sure you install -
 ```
 
 ### Misc
-```
+```json
     // editor
     "editor.colorDecorators": true,
     "editor.formatOnPaste": true,
@@ -324,7 +324,7 @@ For this to work make sure you install -
 ```
 
 ### Color Customizations of VScode
-```
+```json
     "workbench.colorCustomizations": {
         "tab.activeBorderTop": "#12ff00",
         "tree.indentGuidesStroke": "#999999",
